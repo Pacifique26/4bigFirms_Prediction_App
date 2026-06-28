@@ -12,10 +12,11 @@ The application was developed from a risk management and audit analytics perspec
 
 ## How to Use It
 
-Install the required Python libraries (pandas and scikit-learn).
-Place the CSV dataset in the specified directory or update the file path in the script.
-- Run the Python script.
-- The application automatically:Loads and preprocesses the dataset.
+1. Install the required Python libraries (pandas and scikit-learn).
+2. Place the CSV dataset in the specified directory or update the file path in the script.
+3. Run the Python script.
+4. The application automatically:
+- Loads and preprocesses the dataset.
 - Converts AI usage into numerical values.
 - Creates a binary fraud-risk target.
 - Splits the data into training and testing sets.
