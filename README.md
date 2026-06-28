@@ -14,14 +14,13 @@ The application was developed from a risk management and audit analytics perspec
 
 Install the required Python libraries (pandas and scikit-learn).
 Place the CSV dataset in the specified directory or update the file path in the script.
-Run the Python script.
-The application automatically:
-Loads and preprocesses the dataset.
-Converts AI usage into numerical values.
-Creates a binary fraud-risk target.
-Splits the data into training and testing sets.
-Trains a Random Forest classifier.
-Evaluates the model using a classification report displaying precision, recall, F1-score, and accuracy.
+- Run the Python script.
+- The application automatically:Loads and preprocesses the dataset.
+- Converts AI usage into numerical values.
+- Creates a binary fraud-risk target.
+- Splits the data into training and testing sets.
+- Trains a Random Forest classifier.
+- Evaluates the model using a classification report displaying precision, recall, F1-score, and accuracy.
 
 ## Summary
 
